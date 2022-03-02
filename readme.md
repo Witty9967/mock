@@ -8,11 +8,10 @@
 
 
 ## 安装依赖
-`
-pip install Faker
-pip install Pandas
-pip install Pyodbc
-`
+`pip install Faker`
+`pip install Pandas`
+`pip install Pyodbc`
+
 
 
 ## 配置数据库信息
