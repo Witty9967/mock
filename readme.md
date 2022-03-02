@@ -26,9 +26,9 @@ getsql = Pysql('SQL Server',
 
 
 ## 预览
-导出Excel
+导出Excel  
 ![ODBC](png/1.png)
 
-插入数据库
+插入数据库  
 ![ODBC](png/2.png)
 
