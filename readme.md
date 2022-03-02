@@ -8,9 +8,9 @@
 
 
 ## 安装依赖
-`pip install Faker`
-`pip install Pandas`
-`pip install Pyodbc`
+`pip install Faker`  
+`pip install Pandas`  
+`pip install Pyodbc`  
 
 
 
